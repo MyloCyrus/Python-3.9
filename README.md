@@ -14,3 +14,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 WINDOWS INSTALLATION DOWNLOAD LINK
 
 https://download.cnet.com/python-64-bit/3001-2069_4-75908836.html
+
+
+If possible, do consider <a href="https://github.com/sponsors/MyloCyrus">sponsoring</a> us.</p>
